@@ -1,5 +1,6 @@
 # Hotel_Booking_DA
-Data analysis using Python
+
+Data analysis of Hotel Booking Database using Python
 
 
 **Data Source from Kaggle - https://www.kaggle.com/marcuswingen/eda-of-bookings-and-ml-to-predict-cancelations**
