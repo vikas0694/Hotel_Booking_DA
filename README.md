@@ -2,7 +2,7 @@
 Data analysis using Python
 
 
-**Data Source Kaggle - https://www.kaggle.com/marcuswingen/eda-of-bookings-and-ml-to-predict-cancelations**
+**Data Source from Kaggle - https://www.kaggle.com/marcuswingen/eda-of-bookings-and-ml-to-predict-cancelations**
 
 
 make sure you have installed anaconda navigator**
