@@ -18,5 +18,5 @@ make sure you have installed anaconda navigator**
 
 4. Pip3 install -r requirements.txt
 
-**You all set** 
+       **You all set** 
 
