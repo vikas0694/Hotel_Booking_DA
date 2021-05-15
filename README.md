@@ -18,10 +18,10 @@ make sure you have installed anaconda navigator**
 
 4. Pip3 install -r requirements.txt
 
-       **You all set** 
 
+**You all set** 
 
- ## whats we have done In this project**
+## whats we have done In this project
 
 
 **Analyze Where do the guests come from**
