@@ -21,7 +21,7 @@ make sure you have installed anaconda navigator**
 
 **You all set** 
 
-## whats we have done In this project
+## What we have done In this project
 
 
 **Analyze Where do the guests come from**
