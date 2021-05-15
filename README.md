@@ -20,3 +20,24 @@ make sure you have installed anaconda navigator**
 
        **You all set** 
 
+
+ ## whats we have done In this project**
+
+
+**Analyze Where do the guests come from**
+
+**Analyze How does the price per night vary over the year**
+
+**Months Column was not in order so provide right hierarchy to the month column by importing sort_dataframeby_monthorweek Lib**
+
+**Distributed of Nights Spent at Hotels by Market Segment and Hotel Type**
+
+**Analyze Preference of Guests, what they basically Prefer in Meal**
+
+**Analyze Special Request done by Cuustomers**
+
+**Which are the most busy month or in which months Guests are high**
+
+**Analysis of Bookings mode by market segment**
+
+**Analyze How many bookings were cancelled**
